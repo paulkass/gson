@@ -18,3 +18,5 @@ local.properties
 build
 
 .DS_Store
+
+gson/src/main/java/com/google/gson/internal/GsonBuildConfig.java
